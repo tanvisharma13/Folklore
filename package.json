@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "canvas-confetti": "^1.9.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1",
+    "razorpay": "^2.9.6",
+    "react-confetti": "^6.4.0",
+    "react-confetti-explosion": "^2.1.2",
+    "react-toastify": "^11.0.5"
+  }
+}
