@@ -5,7 +5,7 @@ import Banner from './Banner'; // ✅ Add this import
 import TopSellers from './TopSellers';
 import Recommened from './Recommened';
 import Audiobooks from './Audiobooks';
-import Chatbot from './chatbot';
+import Chatbot from './Chatbot';
 
 
 const Home = () => {
